@@ -1,0 +1,14 @@
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+sentence-transformers
+chromadb
+rank-bm25
+pypdf
+pandas
+xlrd
+openpyxl
+python-dotenv
+pytest
